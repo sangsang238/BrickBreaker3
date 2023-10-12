@@ -1,0 +1,10 @@
+VALIDATION_USERNAME_E001;Username cannot be empty!
+VALIDATION_PASSWORD_E001;Password cannot be empty!
+LOGIN_E001;Sorry, your email or password is incorrect.\nPlease try again!
+VALIDATION_USERNAME_E002;User Name must not be longer than 15 characters!
+VALIDATION_PASSWORD_E002;Password cannot be less than 6 letters!
+VALIDATION_PLAYERNAME_E001;Player Name cannot be empty!
+VALIDATION_PLAYERNAME_E002;Player Name must not be longer than 15 characters!
+SIGNUP_USERNAME_E003;Username already exists!
+SIGNUP_PLAYERNAME_E003;Playername already exists!
+SUCCESS;SUCCESS!
